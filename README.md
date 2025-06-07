@@ -63,5 +63,5 @@ Accuracy (Validation F1 Score): **0.89**
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/GeoShield-SentinelV0.15.git
+git clone https://github.com/Prahlad-paradox-2025/GeoShield-SentinelV0.15.git
 cd GeoShield-SentinelV0.15
