@@ -1,0 +1,12 @@
+# Python virtual environment
+backend/venv/
+
+# Node.js dependencies
+frontend/node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log 
